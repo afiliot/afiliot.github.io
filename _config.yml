@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexandre Filiot"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Filiot"
 description              : &description "personal description"
 url                      : https://afiliot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : ""
   location         : "Lille University Hospital"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=A+Filiot"
   googlescholar    : "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
   email            : "afiliot46@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
