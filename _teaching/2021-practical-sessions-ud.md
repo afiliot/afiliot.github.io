@@ -14,5 +14,5 @@ As part of the University Degree "AI and Healthcare" jointly organised by the Li
 
 You can find the GitHub repository of the pratical sessions [here](https://github.com/afiliot/TPDUIA). README and Ipython notebooks are written in French for more convenience.
 
-![a](../images/tpdu_covid.png "a")
+![a](/images/tpdu_covid.png "a")
 _Figure : some CT-scan's slides from an infected patient (open-source data set available [here](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1))._
