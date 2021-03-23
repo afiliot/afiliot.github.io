@@ -27,6 +27,6 @@ Interests
 Education
 =========
 
-- **MSc in Statistics and Computer Science, 2017-2019** | ENSAE Paris
-- **MSc in Machine Learning and Computer Vision, 2018-2019** | ENS Paris-Saclay
+- **MSc in Statistics and Computer Science, 2017-2019** - ENSAE Paris
+- **MSc in Machine Learning and Computer Vision, 2018-2019** - ENS Paris-Saclay
 - **Centrale Marseille engineering school, 2015-2017**
