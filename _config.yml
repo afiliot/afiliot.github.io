@@ -78,7 +78,7 @@ analytics:
     tracking_id          :
 
 # theme
-remote_theme       : "dracula/gh-pages"
+remote_theme       : "/dracula/gh-pages"
 
 # Site Author
 author:
