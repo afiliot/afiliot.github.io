@@ -77,8 +77,6 @@ analytics:
   google:
     tracking_id          :
 
-# theme
-remote_theme       : "/dracula/gh-pages"
 
 # Site Author
 author:
@@ -221,8 +219,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
