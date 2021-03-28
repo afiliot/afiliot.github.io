@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,6 +16,9 @@ Education
 ### **MSc in Machine Learning and Computer Vision, 2018-2019** - ENS Paris-Saclay
 ### **Engineering school, 2015-2017** - Ecole Centrale de Marseille
 ### **Prep school, Maths & Physipcs, 2013-2015** - Lycée Henri Wallon
+
+
+
 
 
 Work experience
