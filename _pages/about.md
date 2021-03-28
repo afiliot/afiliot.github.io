@@ -18,6 +18,7 @@ As part of a small structure, I'm currently working on a broad range of subjects
 On the occasion of the University degree organised by the Lille University ("AI and Healthcare"), I provided practical sessions on medical image analysis using deep learning (GitHub [here](https://github.com/afiliot/TPDUIA), french version). I also gave an opening lecture to second-year students from Centrale Lille engineering school.
 
 <br/>
+
 Interests
 =========
 
@@ -26,6 +27,7 @@ Interests
 - Decentralized machine learning applied to medical research
 
 <br/>
+
 Education
 =========
 
