@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: justify">
-
 Education
 ======
 
@@ -66,5 +64,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-</div>
