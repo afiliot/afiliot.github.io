@@ -25,7 +25,7 @@ Work experience
 Statistical-learning-based clinical research projects as part of the INCLUDE team (INtegration Center of the Lille University hospital for Data Exploration, GitHub [here](https://gitlab.com/include-project))
 
 _Research and development_
-- Statistical support for clinical research projects (data mining and method design, implementation, results sharing and clinical feedbacks, publication if relevant)
+- Statistical support for clinical research projects (data mining and method design, implementation, results sharing and feedbacks with clinicians, publication if relevant)
 - Histological image analysis using deep learning techniques applied to classification and survival estimation 
 - POCs on the applicability of federated learning to medical research in close collaboration with the Inria Magnet team, IT engineers, DPOs, etc.
 
