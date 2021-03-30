@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 ### **Data scientist, Nov. 2019-now - Lille University Hospital**
-Statistical-learning-based clinical research projects as part of the INCLUDE team (INtegration Center of the Lille University hospital for Data Exploration, GitHub [here](https://github.com/include-project))
+Statistical-learning-based clinical research projects as part of the INCLUDE team (INtegration Center of the Lille University hospital for Data Exploration, GitHub [here](https://gitlab.com/include-project))
 
 _Research and development_
 - Statistical support for clinical research projects (data mining and method design, implementation, results sharing and clinical feedbacks, publication if relevant)
