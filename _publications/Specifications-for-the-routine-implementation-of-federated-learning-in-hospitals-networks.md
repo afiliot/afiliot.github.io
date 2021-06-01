@@ -1,14 +1,14 @@
 ---
-title: "A Decentralized Framework for Biostatistics and Privacy Concerns"
+title: "Specifications for the Routine Implementation of Federated Learning in Hospitals Networks"
 collection: publications
-permalink: /publication/A-decentralized-framework-for-biostatistics-and-privacy-concerns
+permalink: /publication/Specifications-for-the-routine-implementation-of-federated-learning-in-hospitals-networks
 excerpt: ''
-date: 2020-11-23
+date: 2021-05-27
 venue: 'Studies in health technology and informatics'
 paperurl: 
 citation: 
 ---
 
-Mangold, P., Filiot, A., Moussa, M., Sobanski, V., Ficheur, G., Andrey, P., & Lamer, A. (2020). A Decentralized Framework for Biostatistics and Privacy Concerns. Studies in health technology and informatics, 275, 137–141. https://doi.org/10.3233/SHTI200710
+Lamer, A., Filiot, A., Bouillard, Y., Mangold, P., Andrey, P., & Schiro, J. (2021). Specifications for the Routine Implementation of Federated Learning in Hospitals Networks. Studies in health technology and informatics, 281, 128–132. https://doi.org/10.3233/SHTI210134
 
-You can download the paper [here](http://afiliot.github.io/files/11_2020.pdf).
+You can download the paper [here](http://afiliot.github.io/files/05_2021.pdf).
