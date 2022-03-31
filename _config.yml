@@ -99,7 +99,7 @@ analytics:
 author:
   name: "Alexandre Filiot"
   avatar: "/assets/images/bio_photo.jpg"
-  bio: "Data scientist @ INFINITE<br>(CHU de Lille)<br>"
+  bio: "Data scientist @ INFINITE<br>CHU de Lille<br>"
   location: "Lille, France"
   email: "afiliot46@gmail.com"
   github: "afiliot"
@@ -195,7 +195,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/CRIStAL-Sigma"
+      #url: "https://github.com/CRIStAL-Sigma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -213,7 +213,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/afiliot/"
+      url: "https://github.com/afiliot/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
