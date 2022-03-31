@@ -98,12 +98,13 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Alexandre Filiot"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Data scientist @ INFINITE"
-  location: "Lille University Hospital, France"
+  avatar: "/assets/images/bio_photo.jpg"
+  bio: "Data scientist @ INFINITE<br>(CHU de Lille)<br>"
+  location: "Lille, France"
   email: "afiliot46@gmail.com"
   github: "afiliot"
   webpage: "https://afiliot.github.io"
+  linkedin: "afiliot"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -132,7 +133,7 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar:
+    google-scholar: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
     hal:
     hypothesis:
     ideas-repec:
@@ -153,7 +154,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid:
+    orcid: "https://orcid.org/0000-0001-7860-2245"
     osf:
     overleaf:
     philpapers:
@@ -162,7 +163,7 @@ author:
     protocols:
     psyarxiv:
     publons:
-    pubmed:
+    pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
     pubpeer:
     researcherid:
     researchgate:
@@ -211,7 +212,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CRIStAL-Sigma"
+      # url: "https://github.com/afiliot/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
