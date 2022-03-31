@@ -15,6 +15,11 @@ toc_sticky: true
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
   </a>
 {% endif %}
+{% if site.author.academic_profiles.pubmed %}
+  <a href="{{ site.author.academic_profiles.pubmed }}">
+    <i class="ai ai-pubmed" aria-hidden="true"></i>Pubmed
+  </a>
+{% endif %}
 {% if site.author.academic_profiles.orcid %}
   <a href="{{ site.author.academic_profiles.orcid }}">
     <i class="ai ai-orcid" aria-hidden="true"></i>Orcid
@@ -32,8 +37,6 @@ toc_sticky: true
 {% endif %}
 
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
-
-This is a mock example: the references are not correct!
 
 <!-- Preprints -->
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}

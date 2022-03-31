@@ -6,10 +6,10 @@ author_profile: true
 title: "Teaching"
 ---
 
-## Course 1
+## University Degree "AI and Healthcare", Lille University
+### Practical sessions, 2021 & 2022
 
-This is what I do
 
-## Course 2
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/afiliot/TPDUIA)
 
-This is what I did
+2021 practical sessions were about introducing key concepts in deep leaninrg-based image analysis. 2022 sessions were specialized on digital pathology, mixing between lectures and code sessions. Students were mostly physician, clinical researchers but also engineers and biostaticians willing to go into AI techniques.
