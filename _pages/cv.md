@@ -9,11 +9,7 @@ toc_label: "Curriculum Vitae"
 toc_sticky: true
 ---
 
-{% include base_path %}
-
 [French](/assets/pdfs/CV_digital_francais.pdf) and [english](/assets/pdfs/CV_digital_anglais.pdf) CV.
-
-
 ## Education
 
 - **MSc in Statistics and Computer Science, 2017-2019** - **[ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)**
