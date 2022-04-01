@@ -4,9 +4,9 @@ layout: single
 # classes: wide
 author_profile: true
 title: "About"
-toc: true
-toc_label: "About"
-toc_sticky: true
+toc: false
+toc_label: ""
+toc_sticky: false
 ---
 
 I am currently working as a data scientist in the [Infinite](http://lille-inflammation-research.org/en/) team. Infinite is a translational research unit (CHU de Lille, Lille University, Inserm) dedicated to inflammation and the understanding of its mechanisms, so that to develop new diagnostic and therapeutic solutions. 

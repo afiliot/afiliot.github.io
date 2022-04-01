@@ -1,10 +1,14 @@
 ---
 permalink: "/teaching/"
-layout: home
-classes: wide
+layout: single
+# classes: wide
 author_profile: true
 title: "Teaching"
+toc: true
+toc_label: "Teaching"
+toc_sticky: true
 ---
+
 
 ## 2022
 

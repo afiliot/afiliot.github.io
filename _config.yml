@@ -102,9 +102,8 @@ author:
   bio: "Data scientist @ INFINITE<br>CHU de Lille<br>"
   location: "Lille, France"
   email: "afiliot46@gmail.com"
-  github: "afiliot"
   #webpage: "https://afiliot.github.io"
-  #pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
+  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
   #linkedin: "afiliot"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
@@ -134,7 +133,7 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
+    google-scholar: #"https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
     hal:
     hypothesis:
     ideas-repec:
@@ -155,7 +154,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid: "https://orcid.org/0000-0001-7860-2245"
+    orcid: #"https://orcid.org/0000-0001-7860-2245"
     osf:
     overleaf:
     philpapers:
@@ -164,7 +163,7 @@ author:
     protocols:
     psyarxiv:
     publons:
-    pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
+    pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
     pubpeer:
     researcherid:
     researchgate:
@@ -202,9 +201,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
-    - label: "Pubmed"
-      icon: "fab fa-fw fa-pubmed"
-      url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
+    #- label: "Pubmed"
+    #  icon: "fab fa-fw fa-pubmed"
+    #  url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
 
 # Site Footer
 # - see how links are displayed in _includes/footer.html
