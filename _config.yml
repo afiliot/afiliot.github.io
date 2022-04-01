@@ -16,7 +16,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "d
 # Site Settings
 locale: "en-US"
 title: "Alexandre Filiot"
-title_separator: "-"
+title_separator: "|"
 subtitle: "Home" # site tagline that appears below site title in masthead
 name: "Alexandre Filiot"
 description: "Description"
@@ -103,9 +103,9 @@ author:
   location: "Lille, France"
   email: "afiliot46@gmail.com"
   github: "afiliot"
-  webpage: "https://afiliot.github.io"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
-  linkedin: "afiliot"
+  #webpage: "https://afiliot.github.io"
+  #pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
+  #linkedin: "afiliot"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -181,48 +181,48 @@ author:
   links:
     # See also how links are displayed in _includes/author-profile.html
     # uncomment url to make link appear
-    - label: "Email" # used above
-      icon: "fas fa-fw fa-envelope"
+    #- label: "Email" # used above
+    #  icon: "fas fa-fw fa-envelope"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
       # url: "https://<webpage-link>"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/CRIStAL-Sigma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/afiliot"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
+    - label: "Pubmed"
+      icon: "fab fa-fw fa-pubmed"
+      url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
 
 # Site Footer
 # - see how links are displayed in _includes/footer.html
 # - add custom links in _includes/footer/custom.html
 footer:
   links: # uncomment url to make link appear
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email" # used above
+      icon: "fas fa-fw fa-envelope-square"
+      url: "afiliot46@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afiliot/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
+    - label: "Pubmed"
+      icon: "fab fa-fw fa-pubmed"
+      url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
 
 # Reading Files
 include:

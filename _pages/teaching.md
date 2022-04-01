@@ -6,6 +6,10 @@ author_profile: true
 title: "Teaching"
 ---
 
-### University Degree _AI and Healthcare_, Lille University <br>
-#### Practical sessions, 2021 & 2022 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/afiliot/TPDUIA)
-2021 practical sessions were about introducing key concepts in deep learning-based image analysis. 2022 sessions were specialized on digital pathology, mixing between lectures and code sessions. Students were mostly physician, clinical researchers but also engineers and biostatisticians willing to go into AI techniques.
+## 2022
+
+- From traditional to computational pathology, _University Degree AI and Healthcare_, Lille University (lecturer/practical sessions, 4h), Mar 2022 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/afiliot/TPDUIA/tree/main/TPDUIA/2021)
+
+## 2021
+
+- Deep learning for image analysis, _University Degree AI and Healthcare_, Lille University (practical sessions, 8h), Apr 2021 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/afiliot/TPDUIA/tree/main/TPDUIA/2022)
