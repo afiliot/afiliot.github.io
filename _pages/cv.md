@@ -12,9 +12,9 @@ toc_sticky: true
 [French](/assets/pdfs/CV_digital_francais.pdf) and [english](/assets/pdfs/CV_digital_anglais.pdf) CV.
 ## Education
 
-- **MSc in Statistics and Computer Science, 2017-2019** - **[ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)**
-- **MSc in Machine Learning and Computer Vision, 2018-2019** - **[ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)**
-- **Engineering school, 2015-2017** - **[Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)**
+### **MSc in Statistics and Computer Science, 2017-2019** - **[ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)**
+### **MSc in Machine Learning and Computer Vision, 2018-2019** - **[ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)**
+### **Engineering school, 2015-2017** - **[Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)**
 
 ## Work experience
 
