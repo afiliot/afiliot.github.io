@@ -20,3 +20,5 @@ I work as a data scientist in the [Infinite](http://lille-inflammation-research.
 - Engineering school, 2015-2017 - Ecole Centrale de Marseille
 
 ## Contact
+
+alexandre [dot] filiot [at] chru [dash] lille [dot] fr
