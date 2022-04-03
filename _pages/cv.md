@@ -12,13 +12,13 @@ toc_sticky: true
 [French](/assets/pdfs/CV_digital_francais.pdf) and [english](/assets/pdfs/CV_digital_anglais.pdf) CV.
 ## Education
 
-### **MSc in Statistics and Computer Science, 2017-2019** - **[ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)**
-### **MSc in Machine Learning and Computer Vision, 2018-2019** - **[ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)**
-### **Engineering school, 2015-2017** - **[Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)**
+### MSc in Statistics and Computer Science, 2017-2019 - [ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)
+### MSc in Machine Learning and Computer Vision, 2018-2019 - [ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)
+### Engineering school, 2015-2017 - [Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)
 
 ## Work experience
 
-### **Data scientist, Dec. 2021, now - Lille University Hospital | Lille University | INSERM**
+### Data scientist, Dec. 2021, now - Lille University Hospital | Lille University | INSERM
 
 Statistical learning and image analysis applied to clinical research as part of the INFINITE U1286 team (Institute for Translational Research in Inflammation, website [here](http://lille-inflammation-research.org/fr/))
 
@@ -32,7 +32,7 @@ _Project management_
 _Teaching activity_
 - Lille University: opening class and practical sessions given as part of the University Degree "AI and healthcare"
 
-### **Data scientist, Nov. 2019, Nov. 2021 - Lille University Hospital**
+### Data scientist, Nov. 2019, Nov. 2021 - Lille University Hospital
 Statistical-learning-based clinical research projects as part of the INCLUDE team (INtegration Center of the Lille University hospital for Data Exploration, GitLab [here](https://gitlab.com/include-project))
 
 _Research and development_
@@ -53,10 +53,10 @@ _Teaching activity_
 - Centrale Lille: opening lecture to second-year students
 
 
-### **Research intern, Jun-Nov. 2019 - Guerbet**
+### Research intern, Jun-Nov. 2019 - Guerbet
 - *GANs*: virtual contrast enhancement applied on brain MRIs using deep generative networks.
 - *3DCNN*: gliomas segmentation on Brats data set using 3D convolution networks.
 
-### **Data scientist intern, Jun-Sep. 2018 - Banque de France**
+### Data scientist intern, Jun-Sep. 2018 - Banque de France
 - *Credit scoring*: statistical modelling and 3 year-prediction of the European Fractional Default Risk.
 - *Natural Language Processing*: analysis of companies' financial reports to evaluate the semantic risk of credit default.

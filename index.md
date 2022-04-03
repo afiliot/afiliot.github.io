@@ -15,7 +15,8 @@ I work as a data scientist in the [Infinite](http://lille-inflammation-research.
 
 ## Education
 
-- **MSc in Statistics and Computer Science, 2017-2019** - ENSAE Paris
-- **MSc in Machine Learning and Computer Vision, 2018-2019** - ENS Paris-Saclay
-- **Engineering school, 2015-2017** - Ecole Centrale de Marseille
+- MSc in Statistics and Computer Science, 2017-2019 - ENSAE Paris
+- MSc in Machine Learning and Computer Vision, 2018-2019 - ENS Paris-Saclay
+- Engineering school, 2015-2017 - Ecole Centrale de Marseille
 
+## Contact
