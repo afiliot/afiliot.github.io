@@ -9,7 +9,7 @@ toc_label: ""
 toc_sticky: false
 ---
 
-## Cumputer vision @Owkin
+## Computer vision @Owkin
 I am currently working as a data scientist at [Owkin](https://www.owkin.com). Owkin is an emerging biotech company with the mission to find the right treatment for every patient. At Owkin, we are leveraging cutting-edge machine learning to deliver better drugs and diagnostics at scale. We use causal, multi-modal AI to enhance personalized medicine, while preserving data confidentiality through federated learning. I am part of the Medical Imaging group, focusing on the analysis and representation of histopathology data. More specically, my missions involve improving our histology-based, AI-driven [diagnostics tools](https://www.owkin.com/diagnostics-approach) such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc); which can be done through complex model understanding and data representation. Among others, I have been working within R&D on self-supervised learning to better represent digital pathology data, that ultimately fuel all our pathology AI solutions and empower pathologists and researchers with increasingly accurate AI assistants for the benefits of patients.
 
 ## Past experience in medical image analysis
