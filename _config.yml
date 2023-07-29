@@ -98,13 +98,13 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Alexandre Filiot"
-  avatar: "/assets/images/bio_photo.jpg"
-  bio: "Data scientist @ INFINITE<br>CHU de Lille<br>"
+  avatar: "/assets/images/bio_photo.jpeg"
+  bio: "Data scientist @ Owkin"
   location: "Lille, France"
   #email: "afiliot46@gmail.com"
   #webpage: "https://afiliot.github.io"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
-  #linkedin: "afiliot"
+  #: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
+  linkedin: "https://www.linkedin.com/in/afiliot/"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -200,7 +200,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
+      url: "https://scholar.google.com/citations?user=mo9BAfAAAAAJ&hl=fr&authuser=1"
     #- label: "Pubmed"
     #  icon: "fab fa-fw fa-pubmed"
     #  url: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alexandre+Filiot"
@@ -218,7 +218,7 @@ footer:
       url: "https://github.com/afiliot/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=-T0kp5IAAAAJ&hl=fr"
+      url: "https://scholar.google.com/citations?user=mo9BAfAAAAAJ&hl=fr&authuser=1"
 
 # Reading Files
 include:

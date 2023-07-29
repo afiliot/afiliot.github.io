@@ -12,13 +12,16 @@ toc_sticky: true
 [French](/assets/pdfs/CV_digital_francais.pdf) and [english](/assets/pdfs/CV_digital_anglais.pdf) CV.
 ## Education
 
-### MSc in Statistics and Computer Science, 2017-2019 - [ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)
-### MSc in Machine Learning and Computer Vision, 2018-2019 - [ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)
-### Engineering school, 2015-2017 - [Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)
+- MSc in Statistics and Computer Science, 2017-2019 - [ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)
+- MSc in Machine Learning and Computer Vision, 2018-2019 - [ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)
+- Engineering school, 2015-2017 - [Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)
 
 ## Work experience
+### Data scientist, Sep. 2021, now - Owkin
 
-### Data scientist, Dec. 2021, now - Lille University Hospital | Lille University | INSERM
+I'm part of the the Medical Imaging group. I'm focusing on the analysis and representation of digital histopathology images. I am working on the development and improvement of diagnostic tools, such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc). Also, I work within R&D on self-supervised learning to better represent digital pathology images, leveraging state-of-the-art computer vision and ML techniques to fuel all our internal research projects and pathology AI solutions.
+
+### Data scientist, Dec. 2021, Aug. 2021 - Lille University Hospital | Lille University | INSERM
 
 Statistical learning and image analysis applied to clinical research as part of the INFINITE U1286 team (Institute for Translational Research in Inflammation, website [here](http://lille-inflammation-research.org/fr/))
 
