@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi there, I'm Alexandre. I'm a data scientist working at [Owkin](https://www.owkin.com), an emerging biotech company with the ambition to find the right treatment for every patient. I am part of the Medical Imaging group, which focuses on the analysis and representation of histopatholgy data. My missions involve improving our histology-based, AI-driven [diagnostics tools](https://www.owkin.com/diagnostics-approach) such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc); which can be done through complex model understanding and images representation. As such, I have been working within R&D on self-supervised learning to better represent digital pathology data.
+Hi there, I'm Alexandre. I'm a data scientist working at [Owkin](https://www.owkin.com), an emerging biotech company with the ambition to find the right treatment for every patient. I am part of the Medical Imaging group, which focuses on the analysis and representation of histopathology data. My missions involve improving our histology-based, AI-driven [diagnostics tools](https://www.owkin.com/diagnostics-approach). As such, I have been working within R&D on [self-supervised learning](https://www.medrxiv.org/content/10.1101/2023.07.21.23292757v1) to better represent digital pathology data.
 
 ## Research interests
 
