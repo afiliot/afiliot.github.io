@@ -12,13 +12,13 @@ toc_sticky: true
 My CV is available [here](/assets/pdfs/CV_digital_anglais.pdf).
 
 ## Work experience
-### Data scientist, Sep. 2021, now - Owkin
+### Data scientist, Sep. 2022, now - Owkin
 
 I'm part of the the Medical Imaging group. I'm focusing on the analysis and representation of digital histopathology images. I am working on the development and improvement of diagnostic tools, such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc). Also, I work within R&D on self-supervised learning to better represent digital pathology images, leveraging state-of-the-art computer vision and ML techniques to fuel all our internal research projects and pathology AI solutions.
 
-### Data scientist, Dec. 2021, Aug. 2021 - Lille University Hospital | Lille University | INSERM
+### Data scientist, Nov. 2019, Aug. 2022 - Lille University Hospital | Lille University | INSERM
 
-#### Data scientist @Lille University, Dec. 2021 - Aug. 2021
+#### Data scientist @Lille University, Dec. 2021 - Aug. 2022
 
 Statistical learning and image analysis applied to clinical research as part of the INFINITE U1286 team (Institute for Translational Research in Inflammation, website [here](http://lille-inflammation-research.org/fr/)). Working on 
 - Digital histopathology: whole slide image analysis using deep learning techniques applied to esogastric cancers (molecular subtyping, outcome prediction, etc.)
