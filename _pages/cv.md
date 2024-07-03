@@ -14,7 +14,7 @@ My CV is available [here](/assets/pdfs/resume_FILIOT.pdf).
 ## Work experience
 ### Data scientist @OWKIN, Sep. 2022 - now
 
-I'm part of the the Medical Imaging group. I'm focusing on the analysis and representation of digital histopathology images. I am working on the development and improvement of diagnostic tools, such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc). Also, I work within R&D on self-supervised learning to better represent digital pathology images, leveraging state-of-the-art computer vision and ML techniques to fuel all our internal research projects and pathology AI solutions.
+I am part of the Medical Imaging group which focuses on the analysis and representation of histopathology data. More specically, I am involved in the development and continuous improvement of our histology-based, AI-guided [diagnostics tools](https://www.owkin.com/diagnostics-approach) such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc) (lately [MSIntuit CRC](https://www.owkin.com/msintuit-crc)). Also, I work within R&D on [self-supervised learning](https://www.medrxiv.org/content/10.1101/2023.07.21.23292757v2) to better represent digital pathology images, leveraging state-of-the-art computer vision and ML techniques to fuel all our internal research projects and pathology AI solutions.
 
 ### Data scientist, Nov. 2019, Aug. 2022 - Lille University Hospital | INSERM | INRIA
 
@@ -39,8 +39,8 @@ Statistical-learning-based clinical research projects as part of the [INCLUDE](h
 
 ## Education
 
-- MSc in Statistics and Computer Science, 2017-2019 - [ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)
-
 - MSc in Machine Learning and Computer Vision, 2018-2019 - [ENS Paris-Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-vision-learning#presentation)
+
+- MSc in Statistics and Computer Science, 2017-2019 - [ENSAE Paris](https://www.ensae.fr/en/programs/ingenieur/3a/dssl/)
 
 - Engineering school, 2015-2017 - [Ecole Centrale de Marseille](https://www.centrale-marseille.fr/en)
