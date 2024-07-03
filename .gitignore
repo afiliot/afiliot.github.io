@@ -11,7 +11,7 @@ _site
 # Ruby Gem
 *.gem
 .bundle
-Gemfile.lock
+#Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
