@@ -12,7 +12,8 @@ toc_sticky: true
 My CV is available [here](/assets/pdfs/resume_FILIOT.pdf).
 
 ## Work experience
-### Data scientist @OWKIN, Sep. 2022 - now
+
+### Senior data scientist @OWKIN, Sep. 2022 - now
 
 I am part of the Medical Imaging group which focuses on the analysis and representation of histopathology data. I work within R&D on self-supervised learning to better represent digital pathology images, leveraging state-of-the-art computer vision and ML techniques to fuel all our internal research projects and pathology AI solutions. I am one of the main contributor behind  Phikon, Phikon-v2, H0-Mini and other internal models. More specically, I am also involved in the development and continuous improvement of our histology-based, AI-guided [diagnostics tools](https://www.owkin.com/diagnostics-approach) such as [RlapsRisk BC](https://www.owkin.com/rlapsrisk-bc) (lately [MSIntuit CRC](https://www.owkin.com/msintuit-crc)). Also, 
 ### Data scientist, Nov. 2019, Aug. 2022 - Lille University Hospital | INSERM | INRIA
